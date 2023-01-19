@@ -17,4 +17,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/jesus-rodriguez-72072119b
+[linkedin]: https://www.linkedin.com/in/jdanielrod
+
