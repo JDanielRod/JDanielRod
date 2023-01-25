@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JDanielRod/Configuring-on-premises-AD-within-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDanielRod/NSGs-and-Inspecting-Network-Protocols)
 - <b>Nessus</b>
+  - [Vulnerability Managment using Nessus](https://github.com/JDanielRod/Configuring-on-premises-AD-within-Azure)
 
 <h2>🤳Connect with me:</h2>
 
