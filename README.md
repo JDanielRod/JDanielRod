@@ -11,6 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDanielRod/NSGs-and-Inspecting-Network-Protocols)
 - <b>Nessus</b>
   - [Vulnerability Managment using Nessus](https://github.com/JDanielRod/Vulnerability-Managment-using-Nessus)
+- <b>Azure Sentinel</b>
+  -
 
 <h2>🤳Connect with me:</h2>
 
