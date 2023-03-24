@@ -12,7 +12,7 @@
 - <b>Nessus</b>
   - [Vulnerability Managment using Nessus](https://github.com/JDanielRod/Vulnerability-Managment-using-Nessus)
 - <b>Azure Sentinel</b>
-  -
+  - [SIEM Tutorial using Sentinel](https://github.com/JDanielRod/SIEM-Tutorial-using-Sentinel)
 
 <h2>🤳Connect with me:</h2>
 
