@@ -21,6 +21,7 @@ As a network engineer with a passion for cybersecurity, I enjoy taking on challe
   - **[osTicket: Prerequisites and Installation](https://github.com/JDanielRod/osticket-prereqs)**
   - **[osTicket: Post-Installation Configuration](https://github.com/JDanielRod/post-install-config)**
   - **[osTicket: Ticket Lifecycle Examples](https://github.com/JDanielRod/ticket-lifecycle)**
+  
 
 
 ## 🤳 Connect With Me
