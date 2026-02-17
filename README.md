@@ -10,16 +10,17 @@ As a network engineer with a passion for cybersecurity, I enjoy taking on challe
 
 ## 👨‍💻 Other Projects
 
+- <b>Microsoft Azure</b>
+  - **[Configuring On-premises Active Directory within Azure VMs](https://github.com/JDanielRod/Configuring-on-premises-AD-within-Azure)**
+  - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDanielRod/NSGs-and-Inspecting-Network-Protocols)**
+ 
+- <b>Azure Sentinel</b>
+  - **[SIEM Tutorial using Sentinel](https://github.com/JDanielRod/SIEM-Tutorial-using-Sentinel)**
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - **[osTicket: Prerequisites and Installation](https://github.com/JDanielRod/osticket-prereqs)**
   - **[osTicket: Post-Installation Configuration](https://github.com/JDanielRod/post-install-config)**
   - **[osTicket: Ticket Lifecycle Examples](https://github.com/JDanielRod/ticket-lifecycle)**
-- <b>Microsoft Azure</b>
-  - **[Configuring On-premises Active Directory within Azure VMs](https://github.com/JDanielRod/Configuring-on-premises-AD-within-Azure)**
-  - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDanielRod/NSGs-and-Inspecting-Network-Protocols)**
-
-- <b>Azure Sentinel</b>
-  - **[SIEM Tutorial using Sentinel](https://github.com/JDanielRod/SIEM-Tutorial-using-Sentinel)**
 
 
 ## 🤳 Connect With Me
