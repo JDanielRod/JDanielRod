@@ -8,6 +8,9 @@ As a network engineer with a passion for cybersecurity, I enjoy taking on challe
 - **[Vulnerability Management Program Implementation](https://github.com/JDanielRod/Vulnerability-Management-Program)**
 - **[Vulnerability Managment using Nessus](https://github.com/JDanielRod/Vulnerability-Managment-using-Nessus)**
 
+## 🔍 Threat Hunting
+
+- **[Threat Hunting Scenario: Devices Accidentally Exposed to Internet](https://github.com/JDanielRod/Threat-Hunting-Scenario1)**
 ## 👨‍💻 Other Projects
 
 - <b>Microsoft Azure</b>
