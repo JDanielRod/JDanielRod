@@ -12,6 +12,7 @@ As a network engineer with a passion for cybersecurity, I enjoy taking on challe
 
 - **[Threat Hunting Scenario: Devices Accidentally Exposed to Internet](https://github.com/JDanielRod/Threat-Hunting-Scenario1)**
 - **[Threat Hunting Scenario: Sudden Network Slowdowns](https://github.com/JDanielRod/Threat-Hunting-Scenario2)**
+- **[Threat Hunting Scenario: Suspected Data Exfiltration from PIPd Employee](https://github.com/JDanielRod/Threat-Hunting-Scenario3)**
 ## 👨‍💻 Other Projects
 
 - <b>Microsoft Azure</b>
