@@ -16,7 +16,7 @@ As a network engineer with a passion for cybersecurity, I enjoy taking on challe
 
 ## 🚨 Incident Response
 
--**[Incident Response Scenario: VM Brute Force Detection](https://github.com/JDanielRod/Incident-Response-Scenario1)
+- **[Incident Response Scenario: VM Brute Force Detection](https://github.com/JDanielRod/Incident-Response-Scenario1)
 
 ## 👨‍💻 Other Projects
 
