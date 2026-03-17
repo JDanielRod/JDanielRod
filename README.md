@@ -17,6 +17,7 @@ As a network engineer with a passion for cybersecurity, I enjoy taking on challe
 ## 🚨 Incident Response
 
 - **[Incident Response Scenario: Brute Force Detection](https://github.com/JDanielRod/Incident-Response-Scenario1)**
+- **[Incident Response Scenario: Powershell Suspicious Web Request](https://github.com/JDanielRod/Incident-Response-Scenario2)**
 
 ## 👨‍💻 Other Projects
 
